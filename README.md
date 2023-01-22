@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
-🔭I’m currently working on A full-stack online furniture-selling store<br><br>🌱 I’m currently learning React Native, Data Structures and Algorithms, and Cloud Computing<br><br>👨‍💻 All of my projects are available at <https://v-vikramraja.github.io/Portfolio/<br><br>📝> I regularly write articles on <https://hashnode.com/@vikramraja<br><br>💬> Ask me about React, React Native, Data Structures and Algorithms, MongoDB, MERN Stack<br><br>📫 How to reach me vvraja2301@gmail.com
+🔭I’m currently working on A full-stack online furniture-selling store<br><br>🌱 I’m currently learning React Native, Data Structures and Algorithms, and Cloud Computing<br><br>👨‍💻 All of my projects are available at https://v-vikramraja.github.io/Portfolio/<br><br>📝 I regularly write articles on https://hashnode.com/@vikramraja<br><br>💬 Ask me about React, React Native, Data Structures and Algorithms, MongoDB, MERN Stack<br><br>📫 How to reach me vvraja2301@gmail.com
 
 ## 🌐 Socials
 
